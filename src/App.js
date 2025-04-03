@@ -19,7 +19,7 @@ function App() {
         position="bottom-right"
         toastOptions={{
           style: {
-            fontSize: '1.5rem',
+            fontSize: '1.4rem',
           },
         }}
       />
