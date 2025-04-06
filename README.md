@@ -15,4 +15,8 @@ step2: Install Docker and jenkins
        $ sudo apt-get update
        $ sudo apt-get install jenkins
 
+step3: open jenkins webui 
+step4: build a new pipeline from github 
+step5: check the deployment 
+
 
