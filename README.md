@@ -1,6 +1,6 @@
 ![React Todo App](./banner.png)
 
-# React Todo App.
+# DEVOPS (CI/CD) React Todo App.
 
 ## Steps to Run the Project
 
